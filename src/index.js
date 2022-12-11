@@ -47,7 +47,7 @@ function checksTodoExists(request, response, next) {
   request.user = user;
   request.todo = todo;
 
-  return next();
+  next();
 }
 
 function findUserById(request, response, next) {
