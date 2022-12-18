@@ -27,9 +27,9 @@ Desenvolver middlewares para validação das rotas, com a aplicação de todo j�
 
 ### 📝 Clonagem e uso
 
-Para clonar o repositório rode `https://github.com/JackssonAndrey/ignite-desafio-02.git` no seu terminal.
+Para clonar o repositório rode `https://github.com/oleoprado/desafio-02-trilha-nodejs-trabalhando-com-middlewares-rocketseat.git` no seu terminal.
 Entre na pasta do projeto e rode `yarn` no seu terminal para instalar as dependências.
 
-##### Uso
+#### Uso
 
 Com as dependências instaladas rode `yarn dev` para subir o servidor. Para rodar os testes rode `yarn test`.
